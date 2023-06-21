@@ -20,7 +20,7 @@
     "express": "^4.16.4",
     "mongodb": "^3.5.2",
     "mongoose": "^5.8.10",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "nodemon": "^1.18.9",
